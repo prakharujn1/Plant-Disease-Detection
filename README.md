@@ -1,3 +1,6 @@
+https://github.com/user-attachments/assets/a6105fd3-911e-4b1d-8466-68b2b3b1a3ff
+
+
 # source of dataset
 https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset this is link of dataset  odel: "sequential_2"
 # Plant_disease_prediction
